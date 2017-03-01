@@ -7,3 +7,4 @@ This is a collection of various guides usually around Linux and sysadmin things.
 ## Contents
 
 * [How to run multiple instances of Apache on the same machine](multiple_apache.md)
+* [Example Apache WSGI config](apache_wsgi.md)
