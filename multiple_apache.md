@@ -86,3 +86,10 @@ systemctl start httpd-example
 ```
 
 Now you should be able to access your second instance of httpd!
+
+### Acknowledgment
+I am not responsible for any of your stupidy. If you break anything, it is your fault. You should have backups!
+
+### References
+I used this email thread which basically is this guide but with minor edits: https://lists.fedoraproject.org/pipermail/users/2013-August/439603.html
+Config directives available in httpd.conf: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Reference_Guide/s1-apache-config.html
