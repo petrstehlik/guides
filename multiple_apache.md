@@ -1,6 +1,6 @@
 # Running two separate Apache servers on one machine
 
-## This guide is for RHEL7 (Scientific Linux) mainly with systemd and SELinux
+### __This guide is for RHEL7 (Scientific Linux) mainly with systemd and SELinux__
 
 ## Basic places
 
@@ -92,4 +92,5 @@ I am not responsible for any of your stupidy. If you break anything, it is your 
 
 ### References
 I used this email thread which basically is this guide but with minor edits: https://lists.fedoraproject.org/pipermail/users/2013-August/439603.html
+
 Config directives available in httpd.conf: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Reference_Guide/s1-apache-config.html
